@@ -1,0 +1,18 @@
+.box{
+    border: 5px solid green;
+    width: 200px;
+    padding: 0;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+.box2{
+    border: 5px solid blue;
+    width: 200px;
+    padding: 0;
+margin-bottom: auto;
+    /* margin-left: auto; */
+}
+.container{
+    border: 2px solid black;
+    width: 500px;
+}
